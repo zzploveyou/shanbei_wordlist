@@ -42,11 +42,15 @@ if __name__ == '__main__':
                   # filename="雅思阅读必备词汇.txt")
     # wordlist_urls("https://www.shanbay.com/wordbook/176899/",
                   # filename="雅思考试必备词组.txt")
-    wordlist_urls("https://www.shanbay.com/wordbook/176902/",
-                  filename="雅思听力精选词汇.txt")
-    wordlist_urls("https://www.shanbay.com/wordbook/176905/",
-                  filename="雅思口语必备词.txt")
-    wordlist_urls("https://www.shanbay.com/wordbook/176911/",
-                  filename="雅思写作精选词汇.txt")
-    wordlist_urls("https://www.shanbay.com/wordbook/7/",
-                  filename="IELTS精选词表.txt")
+    # wordlist_urls("https://www.shanbay.com/wordbook/176902/",
+                  # filename="雅思听力精选词汇.txt")
+    # wordlist_urls("https://www.shanbay.com/wordbook/176905/",
+                  # filename="雅思口语必备词.txt")
+    # wordlist_urls("https://www.shanbay.com/wordbook/176911/",
+                  # filename="雅思写作精选词汇.txt")
+    # wordlist_urls("https://www.shanbay.com/wordbook/7/",
+                  # filename="IELTS精选词表.txt")
+    wordlist_urls("https://www.shanbay.com/wordbook/134146/",
+                  filename="托福中级词汇.txt")
+    wordlist_urls("https://www.shanbay.com/wordbook/134149/",
+                  filename="托福高级词汇.txt")
